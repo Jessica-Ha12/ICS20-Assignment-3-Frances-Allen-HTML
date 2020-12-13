@@ -1,0 +1,45 @@
+.allen-img{
+  text-align: center;
+  margin: 0px auto;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+.quote{
+  text-align: center;
+  font-size:25px;
+}
+.time-line{
+  float: left;
+  width: 48%;
+  margin: 25px;
+}
+.year{
+  font-size: 25px;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 3px;
+}
+.description{
+  font-size: 18px;
+  margin-top: 0px;
+}
+.awards{
+  float: right;
+  padding: 20px;
+  width: 48%;
+  margin: 25px;
+}
+.col-timeline{
+  width: 48%;
+  position: relative;
+  min-height: 1px;
+  float: left;
+  padding: 10px;
+  box-sizing: content-box;
+}
+.col-award{
+  width: 48%;
+  min-height: 1px;
+  float: left;
+  box-sizing: content-box;
+}
